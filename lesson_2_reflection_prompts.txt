@@ -1,7 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
 
+   Initialising a repository creates a .git directory. This makes my directory
+   into a repository. Now, this is useful because can now save commits into this
+   .git folder. So I can track things and make good use of version-control.
+
 How is the staging area different from the working directory and the repository?
+
+  Staging area is an intermediate step.
+
 What value do you think it offers?
+
+   It allows more flexibility with what to commit. So if have many 
+   files, instead of commmiting each file separately, can pick and choose
+   which file to add to staging area then afterwards can commit everything in 
+   staging area at once. So one commit per many files. Helps with 
+   multiple files tracking.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
