@@ -31,14 +31,22 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can access it offline
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I would use some other version-control system. Like dropbox. Combined 
+    with any messaging app to let people know of my changes.
+    Github automates a lot of processes for me and is optimised for collaborating
+    on programming projects. Therefore, GitHub makes things much easier.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Making changes in branches can make things more complicated when collaborating because 
+    need to make changes and keep merging and making pull requests.
+    However, often when trying new features and what a peer to review your code,
+    it is much easier to make branches so don't make any permanent changes to
+    master. This is essential in a team effort to build something and obviously
+    don't want people accidentally breaking master.
